@@ -1,0 +1,3 @@
+$(function() {
+   $('#PremiseNavTextStyle').css('#PremiseNavTextStyle');
+});
