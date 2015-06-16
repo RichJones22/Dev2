@@ -37,7 +37,6 @@
                 <li><a href="#about">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="#contact">About</a></li>
-                <li class="pull-right"><a href="/cpanel">admin login</a></li>
             </ul>
         </div>
     </div>
