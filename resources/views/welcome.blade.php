@@ -31,12 +31,13 @@
             {{--<a style="color: #b10000" class="navbar-brand">Premise Software Solutions, Inc.</a>--}}
 
         </div>
-        <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
+        <div id="navbar" class="navbar-collapse collapse container-fluid">
+            <ul class="nav navbar-nav row-fluid">
                 <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="#about">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="#contact">About</a></li>
+                <li class="pull-right"><a href="/cpanel">admin login</a></li>
             </ul>
         </div>
     </div>
