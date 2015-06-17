@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('PremiseMain');
+});
+Route::get('projects', function () {
+    return view('PremiseProjects');
 });
