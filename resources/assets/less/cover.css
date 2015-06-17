@@ -92,8 +92,10 @@ body {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-    color: #fff;
-    border-bottom-color: #fff;
+    //color: #fff;
+    //border-bottom-color: #fff;
+    color: #fffddd;
+    border-bottom-color: #fffddd;
 }
 
 @media (min-width: 768px) {
@@ -110,16 +112,8 @@ body {
  * Cover
  */
 
-/*.cover{*/
-    /*color: rgb(255, 255, 255);*/
-    /*position: relative;*/
-    /*min-height: 350px;*/
-    /*background: url("http://lewisking.net/images/header-image.jpg") no-repeat scroll 0px 100% / cover transparent;*/
-
-
 .cover {
     padding: 0 20px;
-    //background: url("/public/pics/cigar.jpg") no-repeat scroll 0px 100% / cover transparent;
 }
 .cover .btn-lg {
     padding: 10px 20px;
