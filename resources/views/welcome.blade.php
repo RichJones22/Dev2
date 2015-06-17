@@ -29,10 +29,9 @@
             </button>
             <a id="PremiseNavTextStyle" class="navbar-brand" href="index.php">Premise Software</a>
             {{--<a style="color: #b10000" class="navbar-brand">Premise Software Solutions, Inc.</a>--}}
-
         </div>
-        <div id="navbar" class="navbar-collapse collapse container-fluid">
-            <ul class="nav navbar-nav row-fluid">
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="#about">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
@@ -54,12 +53,12 @@
 <div class="container">
     <!-- Example row of columns -->
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-sm-6">
             <h2>HP NonStop Development</h2>
             <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
-        <div class="col-md-6">
+        <div class="col-sm-6">
             <h2>Open Source Development</h2>
             <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
