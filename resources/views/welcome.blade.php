@@ -27,7 +27,7 @@
 
             <div class="masthead clearfix">
                 <div class="inner">
-                    <h3 class="masthead-brand">Premise Software</h3>
+                    <h3 id="PremiseNavTextStyle"  class="masthead-brand">Premise Software</h3>
                     <nav>
                         <ul class="nav masthead-nav">
                             <li class="active"><a href="#">Home</a></li>
@@ -39,7 +39,7 @@
             </div>
 
             <div class="inner cover">
-                <h1 class="cover-heading">Custom Open Source Development</h1>
+                <h1 id="PremiseNavTextStyle" class="cover-heading">Open Source Development</h1>
                 {{--<p class="lead">Custom Open Source Development.</p>--}}
                 {{--<p class="lead">--}}
                     {{--<a href="#" class="btn btn-lg btn-default">Learn more</a>--}}
