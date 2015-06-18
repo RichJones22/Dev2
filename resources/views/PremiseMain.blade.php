@@ -9,8 +9,8 @@
                         <h3 id="PremiseNavTextStyle"  class="masthead-brand">Premise Software</h3>
                         <nav>
                             <ul class="nav masthead-nav">
-                                <li class="active"><a href="#">Home</a></li>
-                                <li><a href="#">Projects</a></li>
+                                <li class="active"><a href="/">Home</a></li>
+                                <li><a href="projects">Projects</a></li>
                                 <li><a href="#">Contact</a></li>
                             </ul>
                         </nav>

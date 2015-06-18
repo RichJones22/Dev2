@@ -6,7 +6,7 @@
 a,
 a:focus,
 a:hover {
-    color: #fff;
+    color: #e6e6f1;
 }
 
 /* Custom default button */
@@ -15,8 +15,8 @@ a:hover {
 .btn-default:focus {
     color: #333;
     text-shadow: none; /* Prevent inheritence from `body` */
-    background-color: #fff;
-    border: 1px solid #fff;
+    background-color: #e6e6f1;
+    border: 1px solid #e6e6f1;
 }
 
 
@@ -30,7 +30,7 @@ body {
     background-color: #333;
 }
 body {
-    color: #fff;
+    color: #e6e6f1;
     text-align: center;
     text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
@@ -43,8 +43,9 @@ body {
     min-height: 100%;
     -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
     box-shadow: inset 0 0 100px rgba(0,0,0,.5);
-    background: url(cigar.jpg) no-repeat scroll 0px 100% / cover transparent;
+    background: url(poles.jpg) no-repeat scroll 0px 100% / cover transparent;
 }
+
 .site-wrapper-inner {
     display: table-cell;
     vertical-align: top;
@@ -79,8 +80,8 @@ body {
     padding-left: 0;
     font-size: 16px;
     font-weight: bold;
-    color: #fff; /* IE8 proofing */
-    color: rgba(255,255,255,.75);
+    color: #e6e6f1; /* IE8 proofing */
+    //color: rgba(255,255,255,.75);
     border-bottom: 2px solid transparent;
 }
 .masthead-nav > li > a:hover,
@@ -94,8 +95,8 @@ body {
 .masthead-nav > .active > a:focus {
     //color: #fff;
     //border-bottom-color: #fff;
-    color: #fffddd;
-    border-bottom-color: #fffddd;
+    color: #e6e6f1;
+    border-bottom-color: #e6e6f1;
 }
 
 @media (min-width: 768px) {

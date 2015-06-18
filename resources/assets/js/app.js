@@ -1,3 +1,3 @@
-$(function() {
-   $('#PremiseNavTextStyle').css('#PremiseNavTextStyle');
-});
+//$(function() {
+//   $('#PremiseNavTextStyle').css('#PremiseNavTextStyle');
+//});
