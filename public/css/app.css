@@ -1,17 +1,3 @@
-#PremiseBlue {
-  color: #e6e6f1;
-}
-.PremiseNavText {
-  color: #e6e6f1;
-  font-weight: bold;
-  font-style: italic;
-}
-#PremiseNavTextStyle {
-  color: #e6e6f1;
-  font-weight: bold;
-  font-style: italic;
-}
-
 /*
  * Globals
  */
@@ -156,6 +142,20 @@ body {
   .cover-container {
     width: 700px;
   }
+}
+
+#PremiseBlue {
+  color: #e6e6f1;
+}
+.PremiseNavText {
+  color: #e6e6f1;
+  font-weight: bold;
+  font-style: italic;
+}
+#PremiseNavTextStyle {
+  color: #e6e6f1;
+  font-weight: bold;
+  font-style: italic;
 }
 
 /*# sourceMappingURL=app.css.map */

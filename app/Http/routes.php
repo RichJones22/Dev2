@@ -14,6 +14,11 @@
 Route::get('/', function () {
     return view('PremiseMain');
 });
+
 Route::get('projects', function () {
     return view('PremiseProjects');
+});
+
+Route::get('contact', function () {
+    return view('PremiseContact');
 });
