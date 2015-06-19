@@ -11,14 +11,21 @@
 |
 */
 
-Route::get('/', function () {
-    return view('PremiseMain');
-});
+//Route::get('/', function () {
+//    return view('PremiseMain');
+//});
+//
+//Route::get('projects', function () {
+//    return view('PremiseProjects');
+//});
+//
+//Route::get('contact', function () {
+//    return view('PremiseContact');
+//});
 
-Route::get('projects', function () {
-    return view('PremiseProjects');
-});
 
-Route::get('contact', function () {
-    return view('PremiseContact');
-});
+get('/', 'PagesController@index');
+
+get('projects', 'PagesController@projects');
+
+get('contact', 'PagesController@contact');
