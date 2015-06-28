@@ -4,10 +4,10 @@
     <div class="inner cover">
         <div>
             <div class="row">
-                <div style="color: #e6e6f1" class="col-sm-6">
-                    <h2>Contact Rich Jones</h2>
-                    <p>email: jones_rich@yahoo.com</p>
-                    <p>Phone: (408) 315-5978</p>
+                <div style="color: #e6e6f1" class="col-sm-12">
+                    <h1>Rich Jones</h1>
+                    <h2>jones_rich@yahoo.com</h2>
+                    <h2>(408) 315-5978</h2>
                 </div>
             </div>
         </div>
