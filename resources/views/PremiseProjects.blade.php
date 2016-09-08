@@ -13,7 +13,7 @@
                             <h3>TimeTrax</h3>
                             <p>Developing a task based, non-traditional, Time Card reporting application</p></br>
                             <p class="lead">
-                                <a href="http://timetrax.premisesoftware.com/timeCard/2015-11-12" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
+                                <a href="http://http://192.241.168.33/timeCard/2015-11-12" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
                                 <a href="https://github.com/RichJones22/TimeTrax" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
                             </p>
