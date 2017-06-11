@@ -31,7 +31,7 @@
                     <div class="item">
                         <div style="color: #e6e6f1" class="col-sm-6">
                             <h3>Photo Gallery</h3>
-                            <p>None framework php with mysql, using OOP techniques</p></br>
+                            <p>None framework php app, with mysql and OOP</p></br>
                             <p class="lead">
                                 <a href="http://photoGallery.premisesoftware.com" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
