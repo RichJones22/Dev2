@@ -13,18 +13,18 @@
                             <h3>TimeTrax</h3>
                             <p>Developing a task based, non-traditional, Time Card reporting application</p></br>
                             <p class="lead">
-                                <a href="http://192.241.168.33/timeCard/2015-11-12" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
+                                <a href="http://www.premisesoftwaresolutions.com/timeCard/2015-11-09" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
                                 <a href="https://github.com/RichJones22/TimeTrax" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
                             </p>
                         </div>
                         <div style="color: #e6e6f1;" class="col-sm-6">
-                            <h3>Free consulting day survey</h3>
-                            <p>A quick prototype app for a client to promote their consulting services</p></br>
+                            <h3>Swing Low Option Trading</h3>
+                            <p>An app for managing trades for option sellers</p></br>
                             <p class="lead">
-                                <a href="http://bullcreekdata.premisesoftware.com/" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Demo</a>
+                                <a href="https://www.swinglowoptiontrading.com//" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
-                                <a href="https://github.com/RichJones22/bullCreekDataSurvey" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
+                                <a href="https://github.com/RichJones22/ezslot" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
                             </p>
                         </div>
                     </div>
@@ -39,12 +39,12 @@
                             </p>
                         </div>
                         <div style="color: #e6e6f1;" class="col-sm-6">
-                            <h3>DMCA Take Down</h3>
-                            <p>implementation of a Laravel video removal request apps</p></br>
+                            <h3>Free consulting day survey</h3>
+                            <p>A quick prototype app for a client to promote their consulting services</p></br>
                             <p class="lead">
-                                <a href="http://dmca.premisesoftware.com" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Demo</a>
+                                <a href="http://bullcreekdata.premisesoftware.com/" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
-                                <a href="https://github.com/RichJones22/DMCA-APP.git" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
+                                <a href="https://github.com/RichJones22/bullCreekDataSurvey" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
                             </p>
                         </div>
                     </div>
