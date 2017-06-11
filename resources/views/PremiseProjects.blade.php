@@ -9,15 +9,6 @@
             <div id="projects" class="carousel slide">
                 <div class="carousel-inner">
                     <div class="item active">
-                        <div style="color: #e6e6f1" class="col-sm-6">
-                            <h3>TimeTrax</h3>
-                            <p>Developing a task based, non-traditional, Time Card reporting application</p></br>
-                            <p class="lead">
-                                <a href="http://www.premisesoftwaresolutions.com/timeCard/2015-11-09" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
-                                &nbsp;
-                                <a href="https://github.com/RichJones22/TimeTrax" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
-                            </p>
-                        </div>
                         <div style="color: #e6e6f1;" class="col-sm-6">
                             <h3>Swing Low Option Trading</h3>
                             <p>An app for managing trades for option sellers</p></br>
@@ -25,6 +16,15 @@
                                 <a href="https://www.swinglowoptiontrading.com//" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
                                 <a href="https://github.com/RichJones22/ezslot" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
+                            </p>
+                        </div>
+                        <div style="color: #e6e6f1" class="col-sm-6">
+                            <h3>TimeTrax</h3>
+                            <p>Developing a task based, non-traditional, Time Card reporting application</p></br>
+                            <p class="lead">
+                                <a href="http://www.premisesoftwaresolutions.com/timeCard/2015-11-09" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
+                                &nbsp;
+                                <a href="https://github.com/RichJones22/TimeTrax" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Github</a>
                             </p>
                         </div>
                     </div>
