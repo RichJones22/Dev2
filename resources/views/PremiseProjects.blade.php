@@ -31,7 +31,7 @@
                     <div class="item">
                         <div style="color: #e6e6f1" class="col-sm-6">
                             <h3>Photo Gallery</h3>
-                            <p>A traditional use of http and single page submission, using OOP design patterns, with a MySql database</p>
+                            <p>None framework php with mysql, using OOP techniques</p></br>
                             <p class="lead">
                                 <a href="http://photoGallery.premisesoftware.com" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
@@ -40,7 +40,7 @@
                         </div>
                         <div style="color: #e6e6f1;" class="col-sm-6">
                             <h3>Free consulting day survey</h3>
-                            <p>A quick prototype app for a client to promote their consulting services</p></br>
+                            <p>Simple single page app with admin access</p></br>
                             <p class="lead">
                                 <a href="http://bullcreekdata.premisesoftware.com/" target="_blank" class="btn btn-lg btn-primary" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
