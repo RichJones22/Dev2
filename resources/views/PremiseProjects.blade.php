@@ -20,7 +20,7 @@
                         </div>
                         <div style="color: #e6e6f1" class="col-sm-6">
                             <h3>TimeTrax</h3>
-                            <p>Developing a task based, non-traditional, Time Card reporting application</p></br>
+                            <p>An app for a time card reporting application</p></br>
                             <p class="lead">
                                 <a href="http://www.premisesoftwaresolutions.com/timeCard/2015-11-09" target="_blank" class="btn btn-lg btn-primary" target="_blank" style="color: #e6e6f1">Demo</a>
                                 &nbsp;
